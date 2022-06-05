@@ -24,6 +24,7 @@ p, h2 {
     
     padding-left: 80px;
     padding-right: 80px;
+    text-align: left;
 }
 
 
@@ -57,7 +58,7 @@ p, h2 {
 
 #content{
     
-    text-align: left;
+    text-align: center;
     float: center;
     background-color: #242424;
     color: white;
